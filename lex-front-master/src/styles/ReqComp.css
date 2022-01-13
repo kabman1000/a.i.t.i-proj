@@ -1,0 +1,21 @@
+#req{
+    margin-top: 5px;
+    width: 100%;
+    padding: 2px;
+}
+
+#req *{
+    width: 100%;
+}
+
+#cons{
+    border:1px solid green;
+    margin-top: 5px;
+    height: 201px;
+    padding: 5px;
+}
+
+#btn5{
+    background-color: #5cb85c;
+    color:white;
+}
